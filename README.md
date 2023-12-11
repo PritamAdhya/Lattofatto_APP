@@ -1,2 +1,2 @@
-It is a food delivery app UI design where we have 4 pages The brand name , sing in page ,log in page and the food category page.
+This project is all about making a super easy and enjoyable food delivery app! Dive into our cool designs that show how ordering food could be a breeze. We've made fancy pictures and layouts that help you pick your favorite meals quickly. Imagine tapping and swiping through the app smoothly to get your delicious food. Your ideas and thoughts matter a lot as we make this app awesome. We're sharing our work openly so others can join and make it even better. Let's cook up a fantastic food app experience together!
 You can see the file in figma for better understanding, I have uploaded the figma files.Please check it out. 
